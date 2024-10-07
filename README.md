@@ -1,0 +1,2 @@
+# mimetype-database
+gatsby
