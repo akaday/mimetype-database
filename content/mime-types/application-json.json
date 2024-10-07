@@ -1,0 +1,6 @@
+{
+  "type": "application/json",
+  "extensions": [".json"],
+  "compressible": true,
+  "charset": "UTF-8"
+}
