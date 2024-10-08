@@ -1,0 +1,11 @@
+{
+  "name": "mimetype-database",
+  "version": "1.0.0",
+  "description": "gatsby That sounds like a fantastic project! Here's a basic outline to get you started with creating an open-source Gatsby-based project for a comprehensive MIME types database:",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
