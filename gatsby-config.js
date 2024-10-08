@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `MIME Types Database`,
     description: `A comprehensive database of MIME types.`,
-    author: `@yourusername`,
+    author: `@akaday`,
   },
   plugins: [
     `gatsby-transformer-json`,
